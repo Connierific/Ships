@@ -30,6 +30,7 @@ allowedBlocks:
     - 134   # spruce stairs
     - 135   # birch stairs
     - 136   # jungle wood stairs
+    - 164   # dark wood stars 
     - 143   # wooden button
     - 144   # mob head
     - 162   # New logs
